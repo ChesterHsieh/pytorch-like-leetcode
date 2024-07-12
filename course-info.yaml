@@ -1,0 +1,7 @@
+type: marketplace
+title: pytorch-like-leetcode
+language: English
+programming_language: Python
+environment: unittest
+content:
+  - lesson1
